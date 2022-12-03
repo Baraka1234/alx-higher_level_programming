@@ -35,7 +35,7 @@ def mul(a, b):
     Returns:
         The return value. a * b
     """
-    return ( * b)
+    return (a * b)
 
 
 def div(a, b):
